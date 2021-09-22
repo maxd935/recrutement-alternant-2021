@@ -5,7 +5,6 @@ Le but de cet excercice est de mesurer vos compétences en développement HTML /
 Il est censé ne pas durer plus d'une heure.
 
 Le but est de reproduire la page comme elle est montrée dans le fichier "résultat attendu".
-Vous pouvez consulter tous les informations de cette maquette sur Figma : https://www.figma.com/file/Fz7Wu9fV5fROPdMkhIWlbp/Untitled?node-id=0%3A1
 
 ## Installation
 ####Étape 1 :
